@@ -1,2 +1,2 @@
-# FirstColab
-Practice using Google Colab during Hamoye Internship
+# Data Analysis using Colab
+Practice using Google Colab
